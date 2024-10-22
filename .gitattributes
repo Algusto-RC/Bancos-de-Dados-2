@@ -1,7 +1,9 @@
 * linguagens=python
 *.js linguagens=javascript
+*.ts linguagens=typescript
 *.html linguagens=html
 *.css linguagens=css
 *.java linguagens=java
 *.c linguagens=c
 *.cpp linguagens=c++
+*.sql linguagens=sql
