@@ -1,0 +1,7 @@
+* linguagens=python
+*.js linguagens=javascript
+*.html linguagens=html
+*.css linguagens=css
+*.java linguagens=java
+*.c linguagens=c
+*.cpp linguagens=c++
